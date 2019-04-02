@@ -1,6 +1,10 @@
 import java.io.*;
 import java.util.*;
-
+/**
+ * 
+ * @author Siva Kanth
+ *
+ */
 public class CycleDetection {
 
     static class SinglyLinkedListNode {
